@@ -1,0 +1,114 @@
+.pageheader {
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-bottom: 10%;
+    display: inline-block;
+    font-family: 'Raleway', san-serif;
+    width: 40%;
+
+}
+
+h1 {
+    font-size: 350%;
+    padding-bottom: 5%;
+}
+
+
+
+.intro {
+    float: right;
+    width: 50%;
+    margin-top: 11.5%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+}
+
+
+
+.text {
+    margin-top: 2%;
+}
+
+li {
+    font-family: 'Lato', sans-serif;
+    font-size: 120%;
+}
+
+.roleshead {
+    display: inline-block;
+    margin-left: 20%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 30%;
+}
+
+h5 {
+    font-size: 200%;
+    font-family: 'Raleway', san-serif;
+}
+
+.projecthead {
+    float: right;
+    margin-right: 20%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 30%;
+}
+
+.overviewtitle {
+    font-size: 255%;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 10%;
+    margin-bottom: 3%;
+    text-align: center;
+}
+
+.overview {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+}
+
+
+
+.problemhead {
+    display: inline-block;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    width: 40%;
+}
+
+.problemsolutionhead {
+    float: right;
+    margin-bottom: 10%;
+    margin-right: 10%;
+    width: 40%;
+}
+
+.problemtitle {
+    font-size: 200%;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 8%;
+}
+
+.problemsolutiontitle {
+    font-size: 200%;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 8%;
+}
+
+.pink-blue {
+    float: left;
+}
+
+.picofapp {
+    content: "";
+    clear: both;
+    display: table;
+    margin-bottom: 10%;
+}
+
+
+
+
